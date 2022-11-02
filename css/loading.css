@@ -3,6 +3,7 @@ body{
   background: gray;
 }
 .wrap{
+  margin-top: 15%;
   text-align: center;
 
 /*   
@@ -16,7 +17,12 @@ body{
   text-align: center;  */
 }
 .image1{
+  
   position: relative;
-  margin-top: 15%;
+  margin-top: 8%;
 
 } 
+
+.image1 img{
+  width: 35%;
+}
