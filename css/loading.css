@@ -3,7 +3,7 @@ body{
   background: gray;
 }
 .wrap{
-  margin-top: 15%;
+  margin-top: 30%;
   text-align: center;
 
 /*   
@@ -19,10 +19,10 @@ body{
 .image1{
   
   position: relative;
-  margin-top: 8%;
+  margin-top: 25%;
 
 } 
 
 .image1 img{
-  width: 35%;
+  width: 60%;
 }
