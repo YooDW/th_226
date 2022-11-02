@@ -4,8 +4,8 @@ body{
 }
 .wrap{
   text-align: center;
-  margin-top: 40%;
-  width: 767px;
+
+  
   /* width: 60%;
   height: 60%;
   position: absolute;
@@ -15,9 +15,20 @@ body{
   padding: 5px;
   text-align: center; */
 }
-/* .image1{
-  width : 100px;
-  height : 100px;
+.image1{
+  width : 767px;
+  height : 1000px;
+  
+  position: relative;
+  /* position: absolute;
+  left: 47px; 
+   */
+} 
+
+.image1 img{
   position: absolute;
-  left: 47px;
-} */
+  width: 100%;
+  top: 45%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+}
