@@ -21,24 +21,6 @@ body{
 	
 }
 
-/*
-a {
-    text-decoration: none;
-    outline: none;
-} */
-
-/* .page {
-    width: 1440px;
-    margin: 0 auto;
-} */
-
-/* .menu{
-  text-align: center;
-}
-
-.menu image{
-  size: 60%;
-} */
 footer {
 
     display: flex;
@@ -62,20 +44,3 @@ nav ul li {
 nav ul li .liI{
   width: 5em;
 }
-/* 
-footer > h2 {
-	margin-left:20px;
-}
-
-
-
-footer ul {
-	display: flex;
-}
-
-footer ul  li {
-  width: 161px;
-	height: 100px;
-	display: flex;
-	align-items: center;
-} */
