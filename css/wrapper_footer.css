@@ -3,7 +3,7 @@
   }
 
   footer{
-    position: fixed;
+    
     display: flex;
     justify-content: center;
     background-image:url(../image/mainbackground.png);
