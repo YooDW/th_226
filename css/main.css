@@ -1,7 +1,5 @@
-@charset "UTF-8";
-@media screen and (max-width:767px){
+/* @charset "UTF-8";
 
-}
 
 body{
   text-align: center;
@@ -43,4 +41,41 @@ nav ul li {
 
 nav ul li .liI{
   width: 5em;
+} */
+#wrapper{
+  text-align: center;
+}
+.top{
+  position: relative;
+
+}
+.top .top_name{
+  padding: 5px 10px;
+	
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate( -50%, -50% );
+}
+footer{
+  display: flex;
+  justify-content: center;
+  background:url(../image/mainbackground.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+nav ul{
+  display: flex;
+  list-style: none;
+  padding-inline-start:0;
+  
+}
+
+nav ul li{
+  padding-right: 1rem;
+}
+nav ul li .liI{
+  width: 4.5rem;
 }
