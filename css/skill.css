@@ -1,19 +1,9 @@
-
-.search{
-    text-align: start;
-    margin-left: 1rem;
+.skills{
+    margin-top: 3rem;
+    display: flex;
 }
-
-#search_bar {
-    
-    text-align: left;
-    right: 10rem;
-    width: 13rem;
-    height: 1.9rem;
-    border-radius: 15px;
-}
-
-#button{
-    margin-left: 2rem;
-
+.skill_li{
+    list-style: none;
+    float: left;
+    margin-left: 3rem;
 }
