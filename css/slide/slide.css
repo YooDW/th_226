@@ -65,7 +65,7 @@
   
   /* 각 슬라이드가 변경되는 것을 시각적으로 확인하기 쉽도록 각 슬라이드별 색상 적용 */
   .slide_item.item1 {
-    background-color: darkgoldenrod;
+    background-color: rgb(224, 35, 18);
   }
   .slide_item.item2 {
     background-color: aqua;
@@ -74,7 +74,7 @@
     background-color: blueviolet;
   }
   .slide_item.item4 {
-    background-color: burlywood;
+    background-color: rgb(116, 244, 146);
   }
   .slide_item.item5 {
     background-color: cornflowerblue;
