@@ -14,24 +14,3 @@
 	left: 50%;
 	transform: translate( -50%, -50% );
 }
-footer{
-  display: flex;
-  justify-content: center;
-  background:url(../image/mainbackground.png);
-  background-size: 35rem;
-  background-repeat: no-repeat;
-  background-position: bottom;
-}
-nav ul{
-  display: flex;
-  list-style: none;
-  padding-inline-start:0;
-  
-}
-
-nav ul li{
-  padding-right: 1rem;
-}
-nav ul li .liI{
-  width: 4.5rem;
-}
