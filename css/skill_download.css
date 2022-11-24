@@ -70,3 +70,34 @@
     color: #111;
     border-radius: 15px;
 }
+
+.skill_explain{
+    margin: 1rem auto;
+    background-color: #dcdcd6;
+    width: 80%;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#button_li{
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+#button_li .down{
+    border-radius: 15px;
+    width: 54%;
+    background-color: #dcdcd6;
+    margin-right: 2%;
+    height: 3rem;
+}
+#button_li .demo{
+    border-radius: 15px;
+    width: 24%;
+    height: 3rem;
+    background-color: #dcdcd6;
+}
