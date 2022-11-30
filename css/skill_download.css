@@ -108,3 +108,20 @@
     height: 4rem;
     background-color: #dcdcd6;
 }
+
+
+.aisyou_skills  { 
+    width: 100%; overflow-x: auto; white-space: nowrap;
+    -ms-overflow-style: none; /* IE and Edge */ scrollbar-width: none; /* Firefox */
+}
+.aisyou_skills::-webkit-scrollbar {
+    display: none;
+}
+.as_list {
+    display:inline-block;
+    margin-inline-start: 0.3rem;
+}
+
+.as_img{
+    width: 3.5rem;
+}
