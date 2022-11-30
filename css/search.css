@@ -2,6 +2,7 @@
 .search{
     text-align: start;
     margin-left: 1rem;
+    margin-block-start: 1.5rem;
 }
 
 #search_bar {
