@@ -117,7 +117,7 @@
 .aisyou_skills::-webkit-scrollbar {
     display: none;
 }
-.aisyou_text{
+.aisyou_txt{
     text-align: left;
     margin-inline-start: 1.5rem;
 }
