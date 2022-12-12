@@ -125,7 +125,7 @@
 .as_list {
     display:inline-block;
     margin-inline-start: 0.5rem;
-    margin-block-start: 1rem;
+    /* margin-block-start: 1rem; */
 }
 
 .as_img{
