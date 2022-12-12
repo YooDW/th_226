@@ -121,3 +121,7 @@
     flex-shrink: 0;
     transition: left 0.15s;
   }
+.slide_img{
+  position: absolute;
+  height: 100%;
+} 
