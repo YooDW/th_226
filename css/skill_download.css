@@ -99,6 +99,16 @@
     margin-right: 2%;
     height: 4rem;
 }
+#button_li .down a {
+    text-decoration-line: none;
+    
+}
+#button_li .down a:link{
+    color: #111;
+}
+#button_li .down a:visited{
+    color: #111;
+}
 #button_li .demo{
     display: flex;
     align-items: center;
