@@ -1,0 +1,32 @@
+#wrapper{
+    text-align: center;
+  }
+
+
+  .menu{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  footer{
+    
+    display: flex;
+    justify-content: center;
+    background-image:url(../image/mainbackground.png);
+    background-size: 35rem;
+    background-repeat: no-repeat;
+    background-position: bottom;
+  }
+  nav ul{
+    display: flex;
+    list-style: none;
+    padding-inline-start:0.5rem;
+    
+  }
+  
+  nav ul li{
+    padding-right: 1rem;
+  }
+  nav ul li .liI{
+    width: 4.5rem;
+  }
