@@ -36,14 +36,15 @@
 
 .cell2{
     margin: auto;
-    background-image: url("../image/SF.png");
+    background-image: url("../image/MS_img.gif");
     background-size: 100% 100%;
     width: 48%;
-    height: 8rem;
+    height: 9rem;
     display: flex;
     justify-content: center;
     align-items:  center;
     border-radius: 100%;
+    margin-left: 1rem;
 }
 .cell3{
   margin-left: 50px;
