@@ -16,11 +16,12 @@
     background-size: 35rem;
     background-repeat: no-repeat;
     background-position: bottom;
+    margin-left: -0.3rem;
   }
   nav ul{
     display: flex;
     list-style: none;
-    padding-inline-start:0.5rem;
+    padding-inline-start:0.7rem;
     
   }
   
