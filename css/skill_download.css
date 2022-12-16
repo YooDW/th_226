@@ -6,6 +6,8 @@
 
 .learn_skill img{
     width: 9rem;
+    border: 2px solid #6B7173;
+    border-radius: 10%;
 }
 
 
